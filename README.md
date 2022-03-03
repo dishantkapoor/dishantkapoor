@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/dishantkapoor/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:DishantKapoor1218@gmail.com"">
+<a href="mailto:dishantkpr@gmail.com"">
    <img align="left" alt="gmail" src=https://img.shields.io/badge/gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white%22/>
 </a>
 
@@ -23,26 +23,17 @@
 <br/>
 <p>
 
-- 🔭 I’m currently working on [Node.js](https://github.com/iamDishantKapoor/crudapiforemp_js)
-- 🌱 I’m currently learning Javascript  and Python
-- 💬 Ask me about HTMl, javascript,CSS and Django,PHP,Wordpress 
-- 📫 How to reach me:[@Dishant Kapoor](https://iamDishantKapoor.tech/)
+- 🔭 Worked on PHP,Laravel, CodeIgniter, React JS, React Native, Android Development Java
+- 🌱 Jquery, Bootstarp, Tailwind
+- 💬 Ask me about All kind of technology 
+- 📫 How to reach me:[@Dishant Kapoor](https://dishantkapoor.com/)
 
 </p>
 
-## HackerRank Certificates
-
-<a href="Skills%20Certification/Python%20(Basic)%20Certificate.png">
-    <img src="github/sql_basic.jpg" alt="sql basic certificate"/>
-</a>
+## Full Stack Developer
 
 
-				
-![Dishant Kapoor Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=iamDishantKapoor&show_icons=true&include_all_commits=true&theme=radical)
-
-![Dishant Kapoor Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamDishantKapoor&layout=compact&theme=radical)
-
-![Dishant Kapoor github activity graph](https://activity-graph.herokuapp.com/graph?username=iamDishantKapoor&theme=dracula)
+![Dishant Kapoor github activity graph](https://activity-graph.herokuapp.com/graph?username=dishantkapoor&theme=dracula)
 
 ## Technologies I have used
 
