@@ -1,18 +1,11 @@
 
-### 			Hi there, I'm [Dishant Kapoor](https://github.com/disantkapoor) </align><img  src="" height="" width="300" alt="coding cat">
-<img align='right' src="" height="" width="300" alt="coding cat"> <img src="/github/community.gif" width="48" align="left">&nbsp;&nbsp;Connect with me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=npx+i+DishantKapoor!;npm+i+DishantKapoor;Do+you+like+my+Portfolio!&center=true&width=360&height=50">
-</p>
+### 			Hi there, I'm [Dishant Kapoor](https://github.com/disantkapoor) </align>
+ </p>
 
 <p>
-<a href="https://twitter.com/abhigarg1997">
-   <img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://studio.youtube.com/channel/UC2YVg0Je4e-YQRz5Gq4m7Mg/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D">
-   <img align="left" alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+
+
 <!-- 
 <a href="">
    <img align="left" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
