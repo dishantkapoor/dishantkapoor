@@ -114,4 +114,4 @@
 
 ---
 
-## <img src="/github/code.gif" width="32" align="left"> See my projects - [Dishant Kapoor/projects](https://iamDishantKapoor.tech/#portfolio)
+## See my projects - [Dishant Kapoor/projects](https://dishantkapoor.com/#portfolio)
