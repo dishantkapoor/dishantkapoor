@@ -1,5 +1,5 @@
 
-### 			Hi there, I'm [Dishant Kapoor](https://github.com/disantkapoor) </align>
+### 			Hi there, I'm [Dishant Kapoor](https://github.com/dishantkapoor) </align>
  </p>
 
 <p>
